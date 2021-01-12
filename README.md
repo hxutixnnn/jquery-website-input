@@ -10,6 +10,10 @@ https://hxutixnnn.github.io/jQuery-Website-Input/
 ## Installation
 ### NPM
 `npm i -s jquery-website-input`
+### UNPKG
+```html
+<script src="https://unpkg.com/jquery-website-input@1.0.2/jquery.website-input.js"></script>
+```
 
 ## Usage
 
