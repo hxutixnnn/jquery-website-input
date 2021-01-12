@@ -10,7 +10,10 @@ A jQuery Plugin to make your website input prettier.
 ## Installation
 ### NPM
 `npm i -s jquery-website-input`
-### UNPKG
+### CDNs
+```html
+<script src="https://cdn.jsdelivr.net/npm/jquery-website-input@latest/jquery.website-input.min.js"></script>
+```
 ```html
 <script src="https://unpkg.com/jquery-website-input@latest/jquery.website-input.js"></script>
 ```
