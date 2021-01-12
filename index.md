@@ -3,7 +3,7 @@ A jQuery Plugin to make your website input prettier.
 
 ## Demo
 
-![Example](./example.png)
+![Example](https://hxutixnnn.github.io/jquery-website-input/example.png)
 
 https://hxutixnnn.github.io/jQuery-Website-Input/
 
