@@ -2,7 +2,16 @@
   "name": "jquery-website-input",
   "version": "1.0.0",
   "description": "A jQuery Plugin to make your website input prettier.",
+  "author": "Huu Tien Nguyen <ng.huuutien98@gmail.com>",
+  "homepage": "http://hxutixnnn.github.io/jQuery-Website-Input/",
   "main": "./jquery.website-input.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hxutixnnn/jQuery-Website-Input"
+  },
+  "bugs": {
+    "url": "https://github.com/hxutixnnn/jQuery-Website-Input/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +22,5 @@
     "input",
     "jquery-plugin"
   ],
-  "author": "Huu Tien Nguyen",
   "license": "ISC"
 }
