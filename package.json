@@ -1,8 +1,8 @@
 {
   "name": "jquery-website-input",
   "version": "1.0.0",
-  "description": "A JQuery Plugin to make your website input prettier.",
-  "main": "index.js",
+  "description": "A jQuery Plugin to make your website input prettier.",
+  "main": "./jquery.website-input.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
