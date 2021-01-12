@@ -1,0 +1,12 @@
+{
+  "name": "jquery-website-input",
+  "version": "1.0.0",
+  "description": "A JQuery Plugin to make your domain input prettier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Huu Tien Nguyen",
+  "license": "ISC"
+}
