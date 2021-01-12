@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# jQuery Website Input
+A jQuery Plugin to make your website input prettier.
 
-You can use the [editor on GitHub](https://github.com/hxutixnnn/jquery-website-input/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Demo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Example](./example.png)
 
-### Markdown
+https://hxutixnnn.github.io/jQuery-Website-Input/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation
+### NPM
+`npm i -s jquery-website-input`
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```html
+<input type="text" class="website-input" />
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hxutixnnn/jquery-website-input/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```javascript
+$(document).ready(function () {
+    $('.website-input').websiteInput({
+        initValue: 'facebook.com',
+        onChange: (value) => {
+            console.log(value)
+        }
+    })
+});
+```
