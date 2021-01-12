@@ -5,7 +5,7 @@ A jQuery Plugin to make your website input prettier.
 
 ![Example](./example.png)
 
-https://hxutixnnn.github.io/jQuery-Website-Input/
+[https://hxutixnnn.github.io/jQuery-Website-Input/](https://hxutixnnn.github.io/jquery-website-input/)
 
 ## Installation
 ### NPM
