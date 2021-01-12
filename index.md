@@ -11,6 +11,11 @@ https://hxutixnnn.github.io/jQuery-Website-Input/
 ### NPM
 `npm i -s jquery-website-input`
 
+### UNPKG
+```html
+<script src="https://unpkg.com/jquery-website-input@latest/jquery.website-input.js"></script>
+```
+
 ## Usage
 
 ```html
