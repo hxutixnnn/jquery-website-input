@@ -12,9 +12,6 @@
   "bugs": {
     "url": "https://github.com/hxutixnnn/jQuery-Website-Input/issues"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "url",
     "domain",
